@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Madhav Gupta</h1>
-<h3 align="center">I can solve problems with 0s and 1s😎</h3>
+<h1 align="center">Hi 👋, I'm <span style={color:"#8879B0"}>Madhav Gupta<span></h1>
+<h2 align="center">I can solve problems with 0s and 1s😎</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav&label=Profile%20views&color=0e75b6&style=flat" alt="madhav" /> </p>
 
