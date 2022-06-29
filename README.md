@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/madhav__28" target="blank"><img src="https://img.shields.io/twitter/follow/madhav__28?logo=twitter&style=for-the-badge" alt="madhav__28" /></a> </p>
 
-- 🔭 I’m currently working on **Web3**
+- 🔭 I’m currently working on **Web3 Development**
 
 - 🌱 I’m currently learning **Solidity, Blockchain**
 
+- 👯 I’m looking to collaborate on **Web3 Projects**
+
 - 🤝 I’m looking for help with **Web3 || Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Madhav-28-gupta](https://github.com/Madhav-28-gupta)
+- 👨‍💻 All of my projects are available at [https://github.com/Madhav-Gupta-28](https://github.com/Madhav-Gupta-28)
 
 - 💬 Ask me about **JavaScript, React**
 
@@ -32,4 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav&show_icons=true&locale=en" alt="madhav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav&" alt="madhav" /></p>
+
 
