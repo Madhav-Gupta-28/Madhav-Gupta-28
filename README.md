@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [At Github Only (Website Coming Soon)](At Github Only (Website Coming Soon))
 
-- 📝 I regularly write articles on [Twitter -> https://twitter.com/Madhav__28](Twitter -> https://twitter.com/Madhav__28)
+- 📝 I regularly write articles on [Twitter -> https://twitter.com/Madhav__28]
 
 - 💬 Ask me about **ReactJs, Javascript , Solidity, Web3, HTML, CSS**
 
