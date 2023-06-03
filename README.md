@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3 as a whole and Mastering ReactJs**
 
-- 🤝 I’m looking for help with **Projects , Startups, Hackathons etc**
+- 🤝 I’m looking for JOBS , Interships , Startups , Hackathons
 
 - 👨‍💻 All of my projects are available at [At Github Only (Website Coming Soon)](At Github Only (Website Coming Soon))
 
