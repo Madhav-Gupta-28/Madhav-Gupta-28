@@ -11,4 +11,4 @@
 - 👁️ Looking to work with companies using the blockchain to impact the world
 - 🔭 Looking also to contribute more to opensource.
 - 💬 Ask me about solidity , React/Next , Blockchain and Web3 as whole. 
--  📧 How to reach me: <a href="guptamadhav2828@gmail.com>guptamadhav2828@gmail.com<a/>
+-  📧 How to reach me: <a href="guptamadhav2828@gmail.com />guptamadhav2828@gmail.com<a/>
