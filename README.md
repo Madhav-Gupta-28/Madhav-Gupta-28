@@ -6,7 +6,6 @@
 
 <p align="left">I'm a passionate Full Stack Web3 Developer</h3>
 
--  💻 Currently working on Frontend  and smart contracts
 -  👯 Looking to collaborate on EVM blockchain projects.
 - 👁️ Looking to work with companies using the blockchain to impact the world
 - 🔭 Looking also to contribute more to opensource.
